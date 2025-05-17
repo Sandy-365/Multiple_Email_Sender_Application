@@ -1,0 +1,36 @@
+<html>
+<head>
+<style>
+  body { font-family: Arial, sans-serif; font-size: 16px; color: #333; }
+  .container { max-width: 600px; margin: auto; background: #f9f9f9; padding: 20px; border-radius: 8px; }
+  h1 { color: #0073e6; }
+  p { line-height: 1.6; }
+  ul { margin-left: 20px; }
+  .cta { display: inline-block; margin-top: 20px; padding: 12px 20px; background: #0073e6; color: white; text-decoration: none; border-radius: 5px; }
+  .footer { font-size: 12px; color: #999; margin-top: 30px; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>🚀 Exciting Opportunity with IIT-Kharagpur & LaunchEd!</h1>
+    <p>Dear Students,</p>
+    <p>We are thrilled to invite you to participate in a comprehensive training and internship program designed to enhance your skills and prepare you for the professional world.</p>
+    
+    <h2>Program Highlights:</h2>
+    <ul>
+      <li>📚 Extensive Training sessions covering latest technologies</li>
+      <li>🔥 10+ Minor Projects to boost your hands-on experience</li>
+      <li>🎓 1 Capstone Project to showcase your skills</li>
+      <li>📝 Resume Building workshops and Mock Interviews</li>
+      <li>✅ Wipro Dice ID Verification for authentic certification</li>
+      <li>🏆 AICTE Approved Internships with reputed organizations</li>
+    </ul>
+    
+    <p><strong>Don’t miss this chance to kickstart your career and build a strong foundation for your future.</strong></p>
+    
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdeD_dzCR5rGfKKe7nGM4fKnhofD_l8H6JYTFQJk1MV2ZMfmw/viewform?usp=sharin" class="cta">👉 Register Now</a>
+    
+    <p class="footer">If you have any questions, feel free to contact us at support@example.com.<br>© 2025 IIT-Kharagpur & LaunchEd</p>
+  </div>
+</body>
+</html>
