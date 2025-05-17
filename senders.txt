@@ -1,3 +1,7 @@
 // sample example for sender email with its google passkey
+
+//sender1@gmail.com-->app_password1
+//sender2@gmail.com-->app_password2
+
 senderemail1@gmail.com-->lsfd plta czwu znnr
 senderemail2@gmail.com-->dsfs dsdg sdgd gjkf
