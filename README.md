@@ -30,7 +30,7 @@ This Python-based application sends bulk emails using multiple sender accounts i
 ## 📂 Project Structure
 
 ```
-├── send_bulk_emails.py     # Main script for sending emails  
+├── app.py     # Main script for sending emails  
 ├── senders.txt             # Sender emails and app passwords, format: email-->app_password  
 ├── emails.txt              # Recipient emails, one per line  
 ├── message.txt             # Email subject and HTML body separated by a line with "---"  
