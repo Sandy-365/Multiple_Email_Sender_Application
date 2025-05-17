@@ -1,1 +1,3 @@
-sandycoc365@gmail.com-->lsfd plta czwu znnr
+// sample example for sender email with its google passkey
+senderemail1@gmail.com-->lsfd plta czwu znnr
+senderemail2@gmail.com-->dsfs dsdg sdgd gjkf
